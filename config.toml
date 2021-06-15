@@ -1,0 +1,56 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My Portfolio"
+theme = "hugo-initio"
+
+[params]
+	name = "David White"
+	description = "Mechatronics Engineering Student | 3rd Year"
+	email = "david.daniel.white@gmail.com"
+	year = 2021
+	avatar = "image/profile.jpg"
+	avatarclass = "circle"
+	background = ""
+	banner = "image/banner2-cropped.jpg"
+#	favicon = "image/profile.jpg"
+	DateForm = "June 6, 2021"
+	author = ""
+
+	showSubheader = true
+	showServices = true
+	showRecentWorks = true
+	showClients = false
+	
+	showFooterContact = true
+	showFooterFollowMe = true
+	showFooterTextWidget = false
+	showFooterFormWidget = false
+
+[[menu.main]]
+	name = "home"
+	url = "/"
+	weight = 1
+[[menu.main]]
+	name = "all projects"
+	url = "/projects"
+	weight = 5
+
+#[params.sharethis]
+#    property = "123456789012345678901234"
+#    custom = true
+
+[[params.social]]
+		title = "linkedin"
+		url = "https://www.linkedin.com/in/david-d-white/"
+	icon = "fab fa-linkedin"
+	footer = true
+	sharethis = false
+	network = "linkedin"
+
+[[params.social]]
+		title = "github"
+		url = "https://github.com/David-D-White"
+	icon = "fab fa-github"
+	footer = true
+	sharethis = false
+	network = ""
