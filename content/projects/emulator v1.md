@@ -3,7 +3,7 @@ date = "2020-02-20"
 title = "Handheld Console Emulator"
 +++
 # Project in Action
-{{< video library="1" src="video/emulator.mp4" width="100%">}}
+{{< video library="1" src="/video/emulator.mp4" width="100%">}}
 
 # About the Project
 As an introduction to **Schematic Capture**, **PCB Design**, and **Circuit Design**, I decided to build a custom handheld emulator based around the **Raspberry PI**. For this project, I wanted to create a handheld emulator capable of emulating consoles from the PS1 era and before. I wanted to include analog joysticks for input, a reusable battery and charging circuit, as well as a touch screen for use with Nintendo DS emulation.
