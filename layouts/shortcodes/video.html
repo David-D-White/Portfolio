@@ -1,5 +1,5 @@
 <center>
-	<video {{with .Get "width"}}width="{.}}"{{end}} {{with .Get "height"}}height="{{.}}"{{end}} controls muted autoplay loop>
+	<video {{with .Get "width"}}width="{{.}}"{{end}} {{with .Get "height"}}height="{{.}}"{{end}} controls muted autoplay loop>
 		<source src=/portfolio/{{ .Get "src" }} type="video/mp4">
 	</video>
 </center>
