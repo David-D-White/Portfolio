@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://david-d-white.github.io/portfolio/"
 languageCode = "en-us"
 title = "My Portfolio"
 theme = "hugo-initio"
