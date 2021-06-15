@@ -4,7 +4,7 @@ title = "Ludum Dare 40 - \"Make It Home\""
 +++
 
 # Project in Action
-{{< video library="1" src="/video/make-it-home.mp4" width="100%">}}
+{{< video library="1" src="video/make-it-home.mp4" width="100%">}}
 
 # About the Project
 For the ludum dare 40 game jam, I created a low-poly 3D driving game my best friend from high school. In the game you must dodge the obstacles scattered about the road, but the twist is that the game will apply several disorienting effects to make the driving experience more difficult.

@@ -3,7 +3,7 @@ date = "2016-03-22"
 title = "Terrarithmetic"
 +++
 # Project in Action
-{{< video library="1" src="/video/terrarithmetic.mp4" width="100%">}}
+{{< video library="1" src="video/terrarithmetic.mp4" width="100%">}}
 
 # About the Project
 Terrarithmetic is an math teaching game I created with a friend in grade 10 as a cumulative project. This project was written entirely in **Java** without the use of any 3rd party libraries whatsoever.

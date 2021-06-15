@@ -3,7 +3,7 @@
 		"id": 0,
 		"name": "Handheld Console Emulator",
 		"image": "gif/emulator.gif",
-		"url": "/projects/emulator-v1",
+		"url": "projects/emulator-v1",
 		"items": [
 			{
 				"name": "PCB Design",
@@ -23,7 +23,7 @@
 		"id": 1,
 		"name": "Autonomous Chess Robot",
 		"image": "gif/chess-robot-crop.gif",
-		"url": "/projects/chess-robot",
+		"url": "projects/chess-robot",
 		"items": [
 			{
 				"name": "Mechanical Design",
@@ -43,7 +43,7 @@
 		"id": 2,
 		"name": "\"Down Dog\" - Ludum Dare 48",
 		"image": "gif/down-dog.gif",
-		"url": "/projects/down-dog",
+		"url": "projects/down-dog",
 		"items": [
 			{
 				"name": "Game Design",
@@ -63,7 +63,7 @@
 		"id": 3,
 		"name": "\"Make It Home\" - Ludum Dare 40",
 		"image": "gif/make-it-home.gif",
-		"url": "/projects/make-it-home",
+		"url": "projects/make-it-home",
 		"items": [
 			{
 				"name": "Game Design",
@@ -83,7 +83,7 @@
 		"id": 4,
 		"name": "Snowboard Madness",
 		"image": "gif/snowboard-madness-crop.gif",
-		"url": "/projects/snowboard-madness",
+		"url": "projects/snowboard-madness",
 		"items": [
 			{
 				"name": "Game Design",
@@ -103,7 +103,7 @@
 		"id": 5,
 		"name": "Terrarithmetic",
 		"image": "gif/terrarithmetic.gif",
-		"url": "/projects/terrarithmetic",
+		"url": "projects/terrarithmetic",
 		"items": [
 			{
 				"name": "Game Design",
