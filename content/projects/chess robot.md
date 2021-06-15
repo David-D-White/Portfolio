@@ -3,7 +3,7 @@ date = "2018-12-05"
 title = "Autonomous Chess Playing robot"
 +++
 # Project in Action
-{{< video library="1" src="/video/lego-robot.mp4" width="50%">}}
+{{< video library="1" src="video/lego-robot.mp4" width="50%">}}
 
 # About the Project
 As a first year project, I created a chess playing robot with two of my friends over the course of a month. The robot can accurately navigate the board, pick up pieces, and perform any legal chess move (including castling and en-passant). The robot can asses the current state of the board, make an informed decision, and execute a chosen move **autonomously**.
