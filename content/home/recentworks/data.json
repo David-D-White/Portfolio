@@ -2,7 +2,7 @@
 	{
 		"id": 0,
 		"name": "Autonomous Rover",
-		"image": "gif/rover.gif",
+		"image": "gif/rover-padded.gif",
 		"url": "projects/rover",
 		"items": [
 			{
