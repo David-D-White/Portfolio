@@ -5,16 +5,16 @@ theme = "hugo-initio"
 
 [params]
 	name = "David White"
-	description = "Mechatronics Engineering Student | 3rd Year"
+	description = "Mechatronics Engineering Student | 4th Year"
 	email = "david.daniel.white@gmail.com"
-	year = 2021
+	year = 2023
 	avatar = "image/profile.jpg"
 	avatarclass = "circle"
 	background = ""
 	banner = "image/banner2-cropped.jpg"
 #	favicon = "image/profile.jpg"
-	DateForm = "June 6, 2021"
-	author = ""
+	DateForm = "January 18, 2023"
+	author = "David White"
 
 	showSubheader = true
 	showServices = true
