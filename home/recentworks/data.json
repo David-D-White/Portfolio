@@ -1,6 +1,26 @@
 [
 	{
 		"id": 0,
+		"name": "Autonomous Rover",
+		"image": "gif/rover.gif",
+		"url": "projects/rover",
+		"items": [
+			{
+				"name": "Mechanical Design",
+				"url": "#"
+			},
+			{
+				"name": "Programming",
+				"url": "#"
+			},
+			{
+				"name": "Electrical Design",
+				"url": "#"
+			}
+		]
+	},
+	{
+		"id": 1,
 		"name": "Handheld Console Emulator",
 		"image": "gif/emulator.gif",
 		"url": "projects/emulator-v1",
@@ -20,7 +40,7 @@
 		]
 	},
 	{
-		"id": 1,
+		"id": 2,
 		"name": "Autonomous Chess Robot",
 		"image": "gif/chess-robot-crop.gif",
 		"url": "projects/chess-robot",
@@ -40,7 +60,7 @@
 		]
 	},
 	{
-		"id": 2,
+		"id": 3,
 		"name": "\"Down Dog\" - Ludum Dare 48",
 		"image": "gif/down-dog.gif",
 		"url": "projects/down-dog",
@@ -60,7 +80,7 @@
 		]
 	},
 	{
-		"id": 3,
+		"id": 4,
 		"name": "\"Make It Home\" - Ludum Dare 40",
 		"image": "gif/make-it-home.gif",
 		"url": "projects/make-it-home",
@@ -75,26 +95,6 @@
 			},
 			{
 				"name": "Unity Game Engine",
-				"url": "#"
-			}
-		]
-	},
-	{
-		"id": 4,
-		"name": "Snowboard Madness",
-		"image": "gif/snowboard-madness-crop.gif",
-		"url": "projects/snowboard-madness",
-		"items": [
-			{
-				"name": "Game Design",
-				"url": "#"
-			},
-			{
-				"name": "Programming",
-				"url": "#"
-			},
-			{
-				"name": "Java",
 				"url": "#"
 			}
 		]
