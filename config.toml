@@ -1,4 +1,4 @@
-baseURL = "portfolio.ddwhite.space"
+baseURL = "https://portfolio.ddwhite.space"
 languageCode = "en-us"
 title = "My Portfolio"
 theme = "hugo-initio"
