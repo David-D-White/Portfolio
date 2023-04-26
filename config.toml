@@ -1,4 +1,4 @@
-baseURL = "https://david-d-white.github.io/portfolio/"
+baseURL = "portfolio.ddwhite.space"
 languageCode = "en-us"
 title = "My Portfolio"
 theme = "hugo-initio"
