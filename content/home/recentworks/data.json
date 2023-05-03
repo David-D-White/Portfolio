@@ -1,6 +1,26 @@
 [
 	{
-		"id": 0,
+		"id": 1,
+		"name": "The Lobster PCB Mill",
+		"image": "gif/FYDP.gif",
+		"url": "projects/the-lobster",
+		"items": [
+			{
+				"name": "Mechanical Design",
+				"url": "#"
+			},
+			{
+				"name": "Programming",
+				"url": "#"
+			},
+			{
+				"name": "Electrical Design",
+				"url": "#"
+			}
+		]
+	},
+	{
+		"id": 1,
 		"name": "Autonomous Rover",
 		"image": "gif/rover-padded.gif",
 		"url": "projects/rover",
@@ -20,7 +40,7 @@
 		]
 	},
 	{
-		"id": 1,
+		"id": 2,
 		"name": "Handheld Console Emulator",
 		"image": "gif/emulator.gif",
 		"url": "projects/emulator-v1",
@@ -40,7 +60,7 @@
 		]
 	},
 	{
-		"id": 2,
+		"id": 3,
 		"name": "Autonomous Chess Robot",
 		"image": "gif/chess-robot-crop.gif",
 		"url": "projects/chess-robot",
@@ -60,7 +80,7 @@
 		]
 	},
 	{
-		"id": 3,
+		"id": 4,
 		"name": "\"Down Dog\" - Ludum Dare 48",
 		"image": "gif/down-dog.gif",
 		"url": "projects/down-dog",
@@ -80,7 +100,7 @@
 		]
 	},
 	{
-		"id": 4,
+		"id": 5,
 		"name": "\"Make It Home\" - Ludum Dare 40",
 		"image": "gif/make-it-home.gif",
 		"url": "projects/make-it-home",
@@ -95,26 +115,6 @@
 			},
 			{
 				"name": "Unity Game Engine",
-				"url": "#"
-			}
-		]
-	},
-	{
-		"id": 5,
-		"name": "Terrarithmetic",
-		"image": "gif/terrarithmetic.gif",
-		"url": "projects/terrarithmetic",
-		"items": [
-			{
-				"name": "Game Design",
-				"url": "#"
-			},
-			{
-				"name": "Programming",
-				"url": "#"
-			},
-			{
-				"name": "Java",
 				"url": "#"
 			}
 		]
